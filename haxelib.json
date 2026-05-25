@@ -1,0 +1,14 @@
+{
+    "name": "flixel-3d",
+    "url": "https://github.com/Brenninho123/flixel-3D",
+    "license": "MIT",
+    "tags": ["cross", "haxeflixel", "3d", "opengl"],
+    "description": "3D rendering extension for HaxeFlixel — add OpenGL 3D scenes directly into your FlxState.",
+    "version": "0.1.0",
+    "releasenote": "Initial alpha release.",
+    "contributors": [],
+    "dependencies": {
+        "flixel": ""
+    },
+    "classPath": "flixel3d"
+}
